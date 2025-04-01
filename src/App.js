@@ -2,10 +2,12 @@ import React, { useState } from 'react';
 import './App.css';
 
 const images = [
+  '/images/trinrakanghibli.png',
   '/images/41cafeda-0504-4885-825f-3b9b4d3060d4.png',
   '/images/170c8cda-1f47-4c4f-bef2-2dbefc5e5435.png',
   '/images/9492d476-614b-4361-9cc4-6c9d0cc67525.png',
   '/images/9fcb555f-515c-41fc-a994-743363894daf.png'
+  
 ];
 
 function App() {
